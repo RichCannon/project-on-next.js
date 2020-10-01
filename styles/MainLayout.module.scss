@@ -1,0 +1,24 @@
+.nav {
+  position: fixed;
+  height: 60px;
+
+  background-color: orange;
+  left: 0;
+  right: 0;
+  top: 0;
+  align-items: center;
+  justify-content: space-around;
+  display: flex;
+  box-shadow: 0 2px 21px 0 rgba(0, 0, 0, 0.37);
+  a {
+    text-decoration: none;
+    color: #fff;
+  }
+}
+
+
+
+.main {
+  margin-top: 60px;
+  padding: 1rem;
+}
